@@ -1,0 +1,7 @@
+.TH SHELLBY 1 "August 2021" "ALX software Engineering School" "0x16. C - Simple Shell"
+.SH NAME
+.B shellby\fR \- simple UNIX command interpreter
+.SH SYNOPSIS
+.B shellby\fR [\fIfilename\fR]
+.SH DESCRIPTION
+.B Shellby\fR is a simple UNIX command language interpreter that reads commands from either a file or standard input and executes them.
