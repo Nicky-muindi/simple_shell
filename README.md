@@ -19,7 +19,7 @@ gcc *.c -o shellby
 
 **Shellby** can be invoked both interactively and non-interactively. If **shellby** is invoked with standard input not connected to a terminal, it reads and executes received commands in order.
 
-Example:
+Example
 ```
 $ echo "echo 'hello'" | ./shellby
 'hello'
